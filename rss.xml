@@ -2,13 +2,22 @@
     <channel>
         <title><![CDATA[Bralgei Shackry]]></title>
         <description><![CDATA[Bralgei Shackry]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.bralgei.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 07:49:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 08:54:32 GMT</lastBuildDate>
+        <atom:link href="http://www.bralgei.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedf897fb26-af69-42e8-bf61-92b7d0d70791/index.html</link>
+            <description><![CDATA[<p>Lujan Matus - Cosmic Giggle</p>]]></description>
+            <link>http://www.bralgei.com/e72a4dab-0349-4744-ae83-9057458f511e/index.html</link>
+            <guid isPermaLink="false">e72a4dab-0349-4744-ae83-9057458f511e</guid>
+            <pubDate>Sun, 06 Mar 2016 08:54:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Dezvoltare
+personala – mit sau realitate?</p>]]></description>
+            <link>http://www.bralgei.com/f897fb26-af69-42e8-bf61-92b7d0d70791/index.html</link>
             <guid isPermaLink="false">f897fb26-af69-42e8-bf61-92b7d0d70791</guid>
             <pubDate>Sun, 06 Mar 2016 07:48:54 GMT</pubDate>
         </item>
