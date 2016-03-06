@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Michael Armstrong
-    url: 'https://www.youtube.com/user/mka123088'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=3lhOX1aY5DE'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -21,7 +17,13 @@ keywords:
   - www
   - paranormal
 description: "https://www.facebook.com/theCosmicGigglemovie The Cosmic Giggle is an experimental documentary film that explores the human energy field's dynamic relationship with our environment. Naturally as human beings, we are connected to a vast network of fluid information inherent to the world around us."
-inLanguage: en
+datePublished: '2016-03-06T18:52:52.007Z'
+dateModified: '2016-03-06T18:52:45.118Z'
+author:
+  - name: Michael Armstrong
+    url: 'https://www.youtube.com/user/mka123088'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=3lhOX1aY5DE&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=3lhOX1aY5DE'
 title: The Cosmic Giggle (full film)
-datePublished: '2016-03-06T18:52:40.794Z'
-dateModified: '2016-03-06T18:48:41.246Z'
 sourcePath: _posts/2016-03-06-the-cosmic-giggle-full-film.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
