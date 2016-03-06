@@ -7,8 +7,8 @@ inLanguage: it
 starred: false
 keywords: []
 description: 'Meditatia vidului sau (ZPM) este o tehnica rapida de atingere a starii de meditatie, de vid mental. Meditatia nu este o tehnica in sine ci este o stare la care se ajunge prin anumite tehnici pregatitoare. Meditatia vidului este una dintre aceste tehnici.'
-datePublished: '2016-03-06T18:47:41.051Z'
-dateModified: '2016-03-06T18:47:35.045Z'
+datePublished: '2016-03-06T18:47:28.598Z'
+dateModified: '2016-03-06T18:47:00.952Z'
 author:
   - name: admin
     url: null
