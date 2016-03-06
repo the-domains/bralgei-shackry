@@ -1,0 +1,28 @@
+name: Bralgei Shackry
+favicon: null
+layout_spectrum: 0.5556350210681558
+typography_spectrum: 0.22367260907776654
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1549563363660127
+  lightness: 0.5185942663811147
+  saturation: 0.15066301869228482
+  rhythmicContrast: 0.9725017889868468
+purpose: []
