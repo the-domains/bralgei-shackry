@@ -1,6 +1,6 @@
 name: Bralgei Shackry
 favicon: null
-layout_spectrum: 0.65222
+layout_spectrum: 0.8212
 typography_spectrum: 0.48069
 title: null
 cta:
@@ -24,6 +24,6 @@ color:
     - '#ececec'
   brandStrength: 0.0625
   lightness: 0.3125
-  saturation: 0.625
+  saturation: 0.125
   rhythmicContrast: 0.25
 purpose: []
